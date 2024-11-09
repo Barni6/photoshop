@@ -24,6 +24,19 @@ Ez a projekt a **Képfeldolgozás alap algoritmusai** kurzus keretében készül
 ### Haladó funkciók
 - **Jellemzőpontok detektálása**: ORB algoritmus használata kulcspontok felismerésére és vizualizálására.
 
+## Technológiák
+
+### Nyelv
+- **Python**
+
+### Könyvtárak
+- **OpenCV**: Képfeldolgozáshoz.
+- **Pillow**: Képek megjelenítéséhez.
+- **Matplotlib**: Hisztogramok ábrázolásához.
+- **Tkinter**: Grafikus felhasználói felülethez.
+
+
+
 ## Telepítési Útmutató
 
 1. **Követelmények telepítése**:
